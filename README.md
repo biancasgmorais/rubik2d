@@ -2,7 +2,7 @@
 * Rubik 2D com Busca de Custo Uniforme, Busca Gulosa pela melhor escolha e Busca A*
 * Trabalho da Disciplina de Sistemas Inteligentes feito juntamente com a aluna LUMA SLLARY FERNANDES OLIVEIRA
 
-#Rubik
+# Rubik
 * O Cubo de Rubik é o original e mais conhecido dos quebra-cabeças de movimentos sequenciais.
 
 # BUSCA DE CUSTO UNIFORME:
